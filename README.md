@@ -1,1 +1,1 @@
-BST
+An implimentation of a Binary Search Tree using C++ 11 developed in Visual Studio. 
